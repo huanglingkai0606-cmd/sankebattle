@@ -11,7 +11,7 @@
 
 ## 运行
 
-直接用浏览器打开 [`index.html`](https://huanglingkai0606-cmd.github.io/sankebattle/) 即可。
+直接用浏览器打开 (https://huanglingkai0606-cmd.github.io/sankebattle/) 即可。
 
 ## 特性
 
